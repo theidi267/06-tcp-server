@@ -1,0 +1,27 @@
+{
+  "name": "06-tcp-server",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 06: TCP Chat Server ======",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./lib/chatroom.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theidi267/06-tcp-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theidi267/06-tcp-server/issues"
+  },
+  "homepage": "https://github.com/theidi267/06-tcp-server#readme"
+}
