@@ -2,7 +2,7 @@
   "name": "06-tcp-server",
   "version": "1.0.0",
   "description": "![cf](https://i.imgur.com/7v5ASc8.png) Lab 06: TCP Chat Server ======",
-  "main": "index.js",
+  "main": "./lib/chatroom.js",
   "directories": {
     "lib": "lib"
   },
